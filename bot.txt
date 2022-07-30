@@ -1,0 +1,3 @@
+"ip" "COURTLYSMP.aternos.me"
+"port" "53195" 
+"name " "COURTLYFF"
